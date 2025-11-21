@@ -6,7 +6,8 @@
 ### liste des meilleures compotes pour bébé
 1. Pommes 
 2. framboise
-3. poire 
+3. poire
+4. mangue
 
 ### liste des meilleures composantes de pc
 - processeur 
